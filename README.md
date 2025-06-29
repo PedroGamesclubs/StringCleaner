@@ -1,1 +1,4 @@
-String Cleaner Feito em C++ String cleaning super rápido.
+https://discord.gg/vBrRJ42xjB - starbypass discord.
+
+
+String Cleaner feito por Apn Yang usando C++.
