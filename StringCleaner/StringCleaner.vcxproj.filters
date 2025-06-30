@@ -18,7 +18,7 @@
     <ClInclude Include="MemoryScanner.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
-    <ClInclude Include="StringUtils.hpp">
+    <ClInclude Include="StringUtil.hpp">
       <Filter>Arquivos de Cabeçalho</Filter>
     </ClInclude>
     <ClInclude Include="Privileges.hpp">
@@ -35,7 +35,7 @@
     <ClCompile Include="MemoryScanner.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
-    <ClCompile Include="StringUtils.cpp">
+    <ClCompile Include="StringUtil.cpp">
       <Filter>Arquivos de Origem</Filter>
     </ClCompile>
     <ClCompile Include="Privileges.cpp">

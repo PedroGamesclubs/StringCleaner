@@ -1,6 +1,6 @@
 #include "Cleaner.hpp"
 #include "MemoryScanner.hpp"
-#include "StringUtils.hpp"
+#include "StringUtil.hpp"
 #include "ProcessManager.hpp"
 #include <windows.h>
 std::map<std::wstring, std::vector<std::string>> ProcessesToClean = {

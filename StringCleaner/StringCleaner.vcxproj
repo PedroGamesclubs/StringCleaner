@@ -128,7 +128,7 @@
     <ClInclude Include="MemoryScanner.hpp" />
     <ClInclude Include="Privileges.hpp" />
     <ClInclude Include="ProcessManager.hpp" />
-    <ClInclude Include="StringUtils.hpp" />
+    <ClInclude Include="StringUtil.hpp" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Cleaner.cpp" />
@@ -136,7 +136,7 @@
     <ClCompile Include="MemoryScanner.cpp" />
     <ClCompile Include="Privileges.cpp" />
     <ClCompile Include="ProcessManager.cpp" />
-    <ClCompile Include="StringUtils.cpp" />
+    <ClCompile Include="StringUtil.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
